@@ -1276,4 +1276,15 @@ main .planning .item > i {
         padding: 8px;
     }
 }
+/* ... (previous styles) ... */
+
+.sidebar .side-menu li:hover {
+    background: var(--grey);
+}
+
+.sidebar .side-menu li:hover a {
+    color: var(--success);
+}
+
+/* ... (previous styles) ... */
 
