@@ -1288,9 +1288,15 @@ main .planning .item > i {
 
 /* ... (previous styles) ... */
 
+
 body {
-    background-color:blueviolet;
-}
+    background-image: url('layer1.jpg');
+    background-size: cover; /* Adjust the sizing as needed */
+    background-position: center; /* Adjust the position as needed */
+    background-repeat: no-repeat; /* Specify if the image should repeat */
+  }
+
+
   
 
   
