@@ -1288,3 +1288,14 @@ main .planning .item > i {
 
 /* ... (previous styles) ... */
 
+body {
+    background-color:blueviolet;
+  }body {
+    margin: 0;
+    height: 100vh;
+    background-color: blueviolet;
+  }
+  
+
+  
+  
